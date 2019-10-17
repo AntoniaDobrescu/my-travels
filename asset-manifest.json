@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/my-travels/static/css/main.8a5c86e2.chunk.css",
-    "main.js": "/my-travels/static/js/main.da3fd932.chunk.js",
-    "main.js.map": "/my-travels/static/js/main.da3fd932.chunk.js.map",
+    "main.js": "/my-travels/static/js/main.b1725bff.chunk.js",
+    "main.js.map": "/my-travels/static/js/main.b1725bff.chunk.js.map",
     "runtime-main.js": "/my-travels/static/js/runtime-main.79b16804.js",
     "runtime-main.js.map": "/my-travels/static/js/runtime-main.79b16804.js.map",
     "static/js/2.b600eb30.chunk.js": "/my-travels/static/js/2.b600eb30.chunk.js",
     "static/js/2.b600eb30.chunk.js.map": "/my-travels/static/js/2.b600eb30.chunk.js.map",
     "index.html": "/my-travels/index.html",
-    "precache-manifest.df0c241b69b47cfd40fb4b9454b57189.js": "/my-travels/precache-manifest.df0c241b69b47cfd40fb4b9454b57189.js",
+    "precache-manifest.780ce484a65a397408eb83e6dba49692.js": "/my-travels/precache-manifest.780ce484a65a397408eb83e6dba49692.js",
     "service-worker.js": "/my-travels/service-worker.js",
-    "static/css/main.8a5c86e2.chunk.css.map": "/my-travels/static/css/main.8a5c86e2.chunk.css.map"
+    "static/css/main.8a5c86e2.chunk.css.map": "/my-travels/static/css/main.8a5c86e2.chunk.css.map",
+    "static/media/kalen-emsley-Bkci_8qcdvQ-unsplash.jpg": "/my-travels/static/media/kalen-emsley-Bkci_8qcdvQ-unsplash.4a7de89f.jpg",
+    "static/media/marion-michele-WXj7S4OZGYg-unsplash.jpg": "/my-travels/static/media/marion-michele-WXj7S4OZGYg-unsplash.6bd19632.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.79b16804.js",
     "static/js/2.b600eb30.chunk.js",
     "static/css/main.8a5c86e2.chunk.css",
-    "static/js/main.da3fd932.chunk.js"
+    "static/js/main.b1725bff.chunk.js"
   ]
 }
