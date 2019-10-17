@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-travels/static/css/main.8a5c86e2.chunk.css",
+    "main.js": "/my-travels/static/js/main.da3fd932.chunk.js",
+    "main.js.map": "/my-travels/static/js/main.da3fd932.chunk.js.map",
+    "runtime-main.js": "/my-travels/static/js/runtime-main.79b16804.js",
+    "runtime-main.js.map": "/my-travels/static/js/runtime-main.79b16804.js.map",
+    "static/js/2.b600eb30.chunk.js": "/my-travels/static/js/2.b600eb30.chunk.js",
+    "static/js/2.b600eb30.chunk.js.map": "/my-travels/static/js/2.b600eb30.chunk.js.map",
+    "index.html": "/my-travels/index.html",
+    "precache-manifest.df0c241b69b47cfd40fb4b9454b57189.js": "/my-travels/precache-manifest.df0c241b69b47cfd40fb4b9454b57189.js",
+    "service-worker.js": "/my-travels/service-worker.js",
+    "static/css/main.8a5c86e2.chunk.css.map": "/my-travels/static/css/main.8a5c86e2.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79b16804.js",
+    "static/js/2.b600eb30.chunk.js",
+    "static/css/main.8a5c86e2.chunk.css",
+    "static/js/main.da3fd932.chunk.js"
+  ]
+}
